@@ -1,0 +1,70 @@
+body{
+	background-color:grey;
+}
+.header{
+	height:50px;
+	padding-top:30px;
+	margin-bottom:20px;
+	background-color:white;
+	text-align:center;
+}
+.nav{
+
+	height:50px;
+	padding-top:30px;
+	margin-bottom:20px;
+	background-color:white;
+	text-align:center;
+	font-size:18px;
+
+}
+.over{
+	border-width:20px;
+	background-color:white;
+	height:250px;
+	font-size:18px;
+	text-align:center;
+}
+
+.article{
+	background-color:#777;
+	color:white;
+	margin-left:10px;
+	margin-right:5px;
+	height:180px;
+	text-align:center;
+}
+.list{
+	color:black;
+	background-color:white;
+	height:50px;
+	margin-bottom:5px;
+	text-align:center;
+
+}
+.paragraph{
+	color:black;
+	background-color:white;
+	height:50px;
+	margin-bottom:5px;
+	text-align:center;
+	
+}
+.aside{
+	text-align:center;
+	background-color:white;
+	height:250px;
+	font-size:18px;
+	
+
+}
+.footer{
+color:black;
+background-color:white;
+height:50px;
+margin-top:30px;
+text-align:center;
+}
+.all{
+
+}
